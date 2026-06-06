@@ -7,6 +7,7 @@
 - [Docker安装](#Docker安装)
 - [启动环境](#启动环境)
 - [开发测试](#开发测试)
+- [VSCode配置](#VSCode配置)
 - [参考](#参考)
 
 ## 背景 
@@ -120,6 +121,10 @@
 - 编写 `HelloWorld.cpp`
 - 编译 `g++ HelloWorld.cpp -o HelloWorld`
 - 运行 `./HelloWorld`
+
+## vscode配置
+
+
 
 ## 参考
 
